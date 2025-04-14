@@ -1,0 +1,19 @@
+##el gerente comercial de la tienda comercial de perfumes gloria acaba de decidir mejorar su proceso de venta 
+##eliminando items de su formulario de venta y para ello "nos esta contratando" para eliminar varios de ellos y que aparezca su total el iva y total de la compra
+##el gerente requiere optimizar el tiempo en su fila y solo se trabaja con numero de boleta o factura , rut , nombre , sub total iva 19% y total##
+
+#primero 5 perfumes 
+##1.aque te atrapo
+#2.una exelente noche
+#3.organza
+#4.hugo red
+#5.amazon##
+
+#perfume para hombre
+#1. lacosts
+#2. hugo box
+#3. linuxes
+#4. javasexi
+#5. piton
+
+#COLOCAR A CADA LINTE 2 TIPO DE ML 50 Y DE 100 ML Y 2 TIPOS DE PRECIOS EL DE 50 VALE 10.000 Y EL DE 100 18.000 "SOLO 2 TOMAS DE DECISION "
